@@ -11,6 +11,7 @@ namespace CoreConsoleGit
         {
             Console.WriteLine("Hello");
             Console.ReadKey();
+            //COmment
         }
     }
 }
